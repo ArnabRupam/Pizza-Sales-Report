@@ -12,10 +12,7 @@ To enable quick insights for sales, product optimization, and resource planning.
 # Data Source
 The data used in this dashboard is from a pizza sales dataset, which includes details on:
 
-Order dates and times
-Pizza categories and sizes
-Total order values
-Sales counts by pizza type
+Order dates and times, Pizza categories and sizes, Total order values, Sales counts by pizza type
 This data has been processed to ensure accuracy and relevance for the insights displayed in the dashboard.
 
 # Data Preparation & Transformation
