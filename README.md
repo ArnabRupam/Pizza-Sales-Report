@@ -52,5 +52,6 @@ The Pizza Sales Dashboard provides a valuable tool for analyzing pizza sales dat
 
 This project showcases the power of data visualization in business contexts, demonstrating how easily digestible visuals can support strategic decision-making.
 
+# Pizza Sales Analysis Dashboard
 ![Pizza_Sales_Dashboard](https://github.com/user-attachments/assets/c786d6ad-7d1a-4641-9608-fe139b46fb31)
 
