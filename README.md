@@ -51,3 +51,6 @@ Microsoft Excel: For data validation through pivot tables and visualizing data w
 The Pizza Sales Dashboard provides a valuable tool for analyzing pizza sales data and understanding customer preferences. With insights into peak sales times, top-performing categories, and best-selling items, this dashboard enables data-driven decisions that can boost operational efficiency and optimize marketing strategies.
 
 This project showcases the power of data visualization in business contexts, demonstrating how easily digestible visuals can support strategic decision-making.
+
+![Pizza_Sales_Dashboard](https://github.com/user-attachments/assets/c786d6ad-7d1a-4641-9608-fe139b46fb31)
+
