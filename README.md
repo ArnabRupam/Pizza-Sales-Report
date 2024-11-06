@@ -2,7 +2,7 @@
 The Pizza Sales Dashboard project aims to provide a clear, visual representation of key metrics and insights derived from pizza sales data. This dashboard is designed to help decision-makers in a pizza business understand customer preferences, sales trends, and operational performance, ultimately leading to data-driven decision-making.
 
 # Project Report
-# Objectives
+## Objectives
 The primary objectives of this dashboard are:
 
 To offer a snapshot of total revenue, average order value, total pizzas sold, and other key metrics.
